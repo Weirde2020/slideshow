@@ -10,7 +10,11 @@
 .mySlides {
   display: none;
 }
-
+img{
+  height: 100vw;
+  width: fit-content;
+  
+}
 .prev, .next {
   position: absolute;
   top: 50%;
